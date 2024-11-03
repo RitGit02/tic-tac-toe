@@ -5,7 +5,9 @@ ______________________________________
 Overview
 --------
 
-This is a simple GUI-based Tic-Tac-Toe game built using Python and the Tkinter library. Two players can play this game on the same computer, taking turns to mark their respective moves on a 3x3 board. The game keeps track of scores for each player and displays a button to reset the board for new rounds.
+This is a simple GUI-based Tic-Tac-Toe game built using Python and the Tkinter library. 
+Two players can play this game on the same computer, taking turns to mark their respective moves on a 3x3 board. 
+The game keeps track of scores for each player and displays a button to reset the board for new rounds.
 
 
 Features
